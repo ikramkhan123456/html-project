@@ -1,0 +1,49 @@
+      /********TAG SLECTOR*******/
+
+ body{
+				background-color: #B4B4B3;
+			}
+			h1{
+				color: blue;
+				font-size: ;
+			}
+			hr{
+				border-style: none;
+				border-top-style: dotted;
+				border-color: white;
+				border-width: 8px;
+				width: 8%;
+				}
+		
+			img:hover {
+				background-color: : gold;
+			}
+			div{
+				background-color: #FFCC70;
+			}	
+		
+
+		/*******CLASS SELECTOR********/
+
+		.flower{
+			background-color: green;
+		}
+
+		.mountain{
+			background-color: red; 
+		}
+
+		.circuler{
+			border-radius: 150%
+		}
+
+   
+   		 /*******id SELECTOR********/
+   		 #heading{
+   		 	color: green;
+   		 }
+   		 #flower{
+   		 	background-color: blue;
+   		 }
+
+

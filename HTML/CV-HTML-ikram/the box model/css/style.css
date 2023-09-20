@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+
+h1{
+	margin: 0;
+} 
+
+/************class**********/
+
+.top_container {
+
+	background-color: #8DDFCB;
+}
+
+.middle_container{
+	background-color: red;
+	width: 200px;
+	height: 200px;
+}
+
+.bottom_container{
+	background-color: blue;
+	width: 200px;
+	height: 200px;
+
+}
+
+.early{
+	text-decoration: underline;
+
+}	
+.pro{
+	text-decoration:underline; 
+}
